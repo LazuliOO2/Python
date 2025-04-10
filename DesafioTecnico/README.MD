@@ -1,0 +1,1 @@
+# Alguns desafio tecnico de python e raciocinios lógicos

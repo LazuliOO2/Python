@@ -1,0 +1,12 @@
+# Ignorar subpastas específicas dentro de env
+env/etc/
+env/Include/
+env/Lib/
+env/Scripts/
+env/share/
+
+# Ignorar o arquivo pyvenv.cfg
+env/pyvenv.cfg
+
+# Permitir outros arquivos em env (se necessário)
+!env/
