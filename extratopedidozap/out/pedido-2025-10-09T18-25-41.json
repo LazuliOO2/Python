@@ -1,0 +1,24 @@
+{
+  "cliente": "João",
+  "telefone": null,
+  "endereco": "Rua das Flores, 55",
+  "pagamento": "dinheiro",
+  "itens": [
+    {
+      "produto": "pizza de calabresa",
+      "tamanho": "grande",
+      "quantidade": 2,
+      "observacoes": [
+        "sem cebola"
+      ]
+    },
+    {
+      "produto": "coca-cola",
+      "tamanho": "2L",
+      "quantidade": 1,
+      "observacoes": null
+    }
+  ],
+  "observacoes_gerais": null,
+  "mensagem_original": "Oi! Aqui é o João. Quero 2 pizzas grandes de calabresa (sem cebola) e uma coca 2L. Entregar na Rua das Flores, 55. Pago em dinheiro. Por favor, deixar na portaria"
+}
