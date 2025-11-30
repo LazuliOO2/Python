@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+pandas
+streamlit
+sqlalchemy
+pymysql
+openpyxl
+pyarrow
