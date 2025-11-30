@@ -70,7 +70,7 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-![PortfolioEnv](./src/portfolio.png)
+![PortfolioEnv](./src/portfólio.png)
 
 ---
 
