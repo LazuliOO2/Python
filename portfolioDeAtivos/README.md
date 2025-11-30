@@ -57,19 +57,19 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 
 ## 🖼️ 1️⃣ Diagrama Geral do Pipeline (Treino + Teste)
 
-*(./src/Untitled diagram-2025-11-29-184940.svg)*
+![Diagrama geral](./src/Untitled diagram-2025-11-29-184940.svg)
 
 ---
 
 ## 🖼️ 2️⃣ Fluxo do A2C (Semana 1 – Debug)
 
-*(./src/Gemini_Generated_Image_z9dogyz9dogyz9do.png)*
+![Fluxo A2C](./src/Gemini_Generated_Image_z9dogyz9dogyz9do.png)
 
 ---
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-*(./src/Untitled diagram-2025-11-29-185830.png)*
+![Fluxo do ambiente](./src/Untitled diagram-2025-11-29-185830.png)
 
 ---
 
