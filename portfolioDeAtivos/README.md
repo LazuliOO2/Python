@@ -58,27 +58,19 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 ## 🖼️ 1️⃣ Diagrama Geral do Pipeline (Treino + Teste)
 
 
-=======
 *(./src/completodiagrama.svg)*
->>>>>>> 675370b (Correção)
 
 ---
 
 ## 🖼️ 2️⃣ Fluxo do A2C (Semana 1 – Debug)
 
-
-=======
 *(./src/a2c.png)*
->>>>>>> 675370b (Correção)
 
 ---
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-
-=======
 *(./src/portfolio.png)*
->>>>>>> 675370b (Correção)
 
 ---
 
