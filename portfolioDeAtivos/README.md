@@ -57,7 +57,7 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 
 ## 🖼️ 1️⃣ Diagrama Geral do Pipeline (Treino + Teste)
 
-![Diagrama geral](./src/Untitled diagram-2025-11-29-184940.svg)
+![Diagrama geral](./src/Untitled%20diagram-2025-11-29-184940.svg)
 
 ---
 
@@ -69,7 +69,7 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-![Fluxo do ambiente](./src/Untitled diagram-2025-11-29-185830.svg)
+![Fluxo do ambiente](./src/Untitled%20diagram-2025-11-29-185830.svg)
 
 ---
 
