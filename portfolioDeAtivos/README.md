@@ -69,7 +69,7 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-![Fluxo do ambiente](./src/Untitled diagram-2025-11-29-185830.png)
+![Fluxo do ambiente](./src/Untitled diagram-2025-11-29-185830.svg)
 
 ---
 
