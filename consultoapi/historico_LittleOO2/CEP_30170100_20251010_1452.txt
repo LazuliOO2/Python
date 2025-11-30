@@ -1,0 +1,4 @@
+CEP: 30170-100
+Logradouro: Praça João Luiz Alves
+Bairro: Lourdes
+Cidade/UF: Belo Horizonte/MG

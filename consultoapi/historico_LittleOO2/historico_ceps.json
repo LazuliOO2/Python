@@ -1,0 +1,34 @@
+[
+  {
+    "cep": "30150-260",
+    "logradouro": "Alameda Vereador Álvaro Celso",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Santa Efigênia",
+    "localidade": "Belo Horizonte",
+    "uf": "MG",
+    "estado": "Minas Gerais",
+    "regiao": "Sudeste",
+    "ibge": "3106200",
+    "gia": "",
+    "ddd": "31",
+    "siafi": "4123",
+    "consulta": "2025-10-10T14:50:29.542455"
+  },
+  {
+    "cep": "30170-100",
+    "logradouro": "Praça João Luiz Alves",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Lourdes",
+    "localidade": "Belo Horizonte",
+    "uf": "MG",
+    "estado": "Minas Gerais",
+    "regiao": "Sudeste",
+    "ibge": "3106200",
+    "gia": "",
+    "ddd": "31",
+    "siafi": "4123",
+    "consulta": "2025-10-10T14:52:20.740597"
+  }
+]

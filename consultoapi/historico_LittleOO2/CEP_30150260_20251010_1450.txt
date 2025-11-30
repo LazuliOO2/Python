@@ -1,0 +1,4 @@
+CEP: 30150-260
+Logradouro: Alameda Vereador Álvaro Celso
+Bairro: Santa Efigênia
+Cidade/UF: Belo Horizonte/MG
