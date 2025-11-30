@@ -10,6 +10,7 @@ Para converter, utilize:
 
 ```sh
 jupyter nbconvert --to script arquivo.ipynb
+```
 
 
 ## 📦 Descrição
