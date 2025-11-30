@@ -58,19 +58,19 @@ Abaixo estão os locais destinados às **três imagens** explicando o fluxo comp
 ## 🖼️ 1️⃣ Diagrama Geral do Pipeline (Treino + Teste)
 
 
-![DiagramaCompleto](./src/completodiagrama.svg)
+![DiagramaCompleto](https://raw.githubusercontent.com/LazuliOO2/Python/main/portfolioDeAtivos/src/completodiagrama.svg)
 
 ---
 
 ## 🖼️ 2️⃣ Fluxo do A2C (Semana 1 – Debug)
 
-![A2C](./src/a2c.png)
+![A2C](https://raw.githubusercontent.com/LazuliOO2/Python/main/portfolioDeAtivos/src/a2c.png)
 
 ---
 
 ## 🖼️ 3️⃣ Fluxo do Ambiente PortfolioEnv
 
-![PortfolioEnv](./src/portfolio.png)
+![PortfolioEnv](https://raw.githubusercontent.com/LazuliOO2/Python/main/portfolioDeAtivos/src/portfolio.svg)
 
 ---
 
