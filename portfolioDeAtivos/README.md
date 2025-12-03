@@ -33,6 +33,38 @@ O objetivo é permitir que o agente aprenda a:
 
 Tudo isso utilizando dados históricos reais e interação ambiente–agente.
 
+# 📊 Resultados Preliminares (Backtest)
+
+> ⚠️ **Disclaimer:** Resultados simulados em backtest histórico (Out-of-Sample). 
+> Não consideram custos de slippage (impacto no preço) nem taxas de corretagem reais. 
+> O universo de ativos inclui criptomoedas, o que eleva a volatilidade e o retorno potencial.
+
+## ✅ Performance do Modelo: PPO + GAE
+
+O modelo final utilizou a arquitetura **PPO (Proximal Policy Optimization)** com **GAE (Generalized Advantage Estimation)** para estabilização do aprendizado.
+
+**Cenário de Teste (Out-of-Sample):**
+O modelo foi avaliado nos 20% finais da série temporal, dados que **nunca** foram vistos durante o treinamento.
+
+### Métricas Principais
+| Métrica | Valor | Descrição |
+| :--- | :--- | :--- |
+| **Duração do Teste** | 794 dias | Janela de avaliação temporal |
+| **Retorno Logarítmico** | 0.8925 | Soma dos retornos logarítmicos puros |
+| **Retorno Total** | **+144%** | Fator de crescimento de ~2.44x |
+| **Reward Médio** | 0.0010 | Média diária da função de recompensa |
+
+### Comparativo Visual de Crescimento
+> *Exemplo hipotético de alocação baseada no fator de crescimento:*
+> - **Capital Inicial:** R$ 1.000,00
+> - **Capital Final:** ~R$ 2.440,00
+
+### 🛡️ Controles de Integridade
+Para garantir a confiabilidade técnica do experimento:
+1. **Separação Rígida:** Dados de teste isolados temporalmente (split sequencial 80/20).
+2. **Prevenção de Data Leakage:** O ambiente `PortfolioEnv` foi auditado para garantir que o estado em `t` utiliza apenas dados de fechamento até `t-1`.
+3. **Universo de Ativos:** O portfólio é composto por ativos mistos (B3, ETFs Americanos, Cripto).
+
 ---
 
 # 📁 Estrutura do Projeto
