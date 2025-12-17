@@ -35,7 +35,7 @@ Projetos que utilizam outras linguagens são armazenados em repositórios separa
 ---
 
 ### portfolioAtivo
-**Descrição:** Desenvolvimento de algoritmos de aprendizado por reforço para mercado financeiro (A2C, PPO e PPO + GEN).
+**Descrição:** Desenvolvimento de algoritmos de aprendizado por reforço para mercado financeiro (A2C, PPO e PPO + GAE).
 
 ---
 
